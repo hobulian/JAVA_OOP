@@ -4,51 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="905991c4-a2da-421f-bb7d-21a07fcf39fc" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JAVA_OOP.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap06/Adapter/AdapterServiceA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap06/Adapter/AdapterServiceB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap06/Adapter/ClientWithAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap06/Adapter/ClientWithoutAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap06/Adapter/ServiceA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap06/Adapter/ServiceB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap06/Decorator/ClientWithDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap06/Decorator/Decorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap06/Decorator/IService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap06/Decorator/Service.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap06/Factory/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap06/Factory/AnimalToy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap06/Factory/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap06/Factory/CatToy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap06/Factory/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap06/Factory/DogToy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap06/Factory/Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap06/Proxy/ClientWithProxy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap06/Proxy/ClientWithoutProxy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap06/Proxy/IService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap06/Proxy/Proxy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap06/Proxy/ProxyService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap06/Proxy/Service.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap06/Singleton/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap06/Singleton/Singleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap06/Strategy/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap06/Strategy/Soldier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap06/Strategy/Strategy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap06/Strategy/StrategyGun.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap06/Strategy/StrategySword.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap06/Strategy/Template_Callback/CallbackClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap06/Template/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap06/Template/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap06/Template/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap06/Template/Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap06/Template/TemplatedCat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/chap06/Template/TemplatedDog.java" afterDir="false" />
-    </list>
+    <list default="true" id="905991c4-a2da-421f-bb7d-21a07fcf39fc" name="Changes" comment="06장 스프링이 사랑한 디자인 패턴 실습" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -188,12 +144,24 @@
       <workItem from="1673675280885" duration="3183000" />
       <workItem from="1673916984666" duration="57000" />
       <workItem from="1673917056499" duration="1149000" />
-      <workItem from="1674347413837" duration="4759000" />
+      <workItem from="1674347413837" duration="5084000" />
     </task>
+    <task id="LOCAL-00001" summary="06장 스프링이 사랑한 디자인 패턴 실습">
+      <created>1674365257071</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1674365257071</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="06장 스프링이 사랑한 디자인 패턴 실습" />
+    <option name="LAST_COMMIT_MESSAGE" value="06장 스프링이 사랑한 디자인 패턴 실습" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
